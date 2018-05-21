@@ -7,11 +7,11 @@ Add Time and Class Slots
 Copy-Paste this block
 
 3
-00:00:48,478 --> 00:00:55,878
+00:00:40,278 --> 00:00:55,878
 Correct all the timings
 
 4
-00:00:58,378 --> 00:01:08,078
+00:00:57,878 --> 00:01:08,078
 Lectures are to be entered here
 
 5
@@ -19,22 +19,42 @@ Lectures are to be entered here
 Populate single lecture item
 
 6
-00:01:21,178 --> 00:01:30,378
-Using cell copy and paste
+00:01:19,878 --> 00:01:30,378
+Reports are generated ON-THE-FLY
 
 7
-00:01:37,178 --> 00:01:48,078
-Clash is reported instantly
+00:01:33,478 --> 00:01:39,078
+Clashes are shown immediately
 
 8
-00:01:47,178 --> 00:02:05,178
+00:01:39,278 --> 00:01:44,578
 Save your work and remove clash
 
 9
-00:03:08,878 --> 00:03:10,378
-Select default printer
+00:01:45,278 --> 00:01:55,178
+Clashes are removed by cell exchange !
 
 10
+00:01:56,278 --> 00:02:07,578
+Save you work and load demo time table
+
+11
+00:02:07,678 --> 00:02:17,678
+Splitt lectures are in the same cell ...
+
+12
+00:02:17,978 --> 00:02:39,178
+and separated by comma (,)
+
+13
+00:02:39,278 --> 00:02:57,778
+Enter schoolcollege name
+
+14
+00:02:57,978 --> 00:03:10,378
+Select default printer
+
+15
 00:03:52,291 --> 00:03:27,278
 One individual, similarly print other reports...
 

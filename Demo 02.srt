@@ -1,0 +1,40 @@
+﻿1
+00:00:15,000 --> 00:00:22,044
+Add Time and Class Slots
+
+2
+00:00:30,800 --> 00:00:39,178
+Copy-Paste this block
+
+3
+00:00:48,478 --> 00:00:55,878
+Correct all the timings
+
+4
+00:00:58,378 --> 00:01:08,078
+Lectures are to be entered here
+
+5
+00:01:09,278 --> 00:01:19,378
+Populate single lecture item
+
+6
+00:01:21,178 --> 00:01:30,378
+Using cell copy and paste
+
+7
+00:01:37,178 --> 00:01:48,078
+Clash is reported instantly
+
+8
+00:01:47,178 --> 00:02:05,178
+Save your work and remove clash
+
+9
+00:03:08,878 --> 00:03:10,378
+Select default printer
+
+10
+00:03:52,291 --> 00:03:27,278
+One individual, similarly print other reports...
+

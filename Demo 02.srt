@@ -32,15 +32,15 @@ Save your work and remove clash
 
 9
 00:01:45,278 --> 00:01:55,178
-Clashes are removed by cell exchange !
+Clashes are auto-removed by cell exchanges !
 
 10
 00:01:56,278 --> 00:02:07,578
-Save you work and load demo time table
+Let us test demo time table..
 
 11
 00:02:07,678 --> 00:02:17,678
-Splitt lectures are in the same cell ...
+Split lectures are in the same cell ...
 
 12
 00:02:17,978 --> 00:02:39,178
@@ -48,13 +48,17 @@ and separated by comma (,)
 
 13
 00:02:39,278 --> 00:02:57,778
-Enter schoolcollege name
+Enter school or college name
 
 14
 00:02:57,978 --> 00:03:10,378
 Select default printer
 
 15
-00:03:52,291 --> 00:03:27,278
-One individual, similarly print other reports...
+00:03:12,291 --> 00:03:22,278
+Sample Print....
+
+16
+00:03:22,378 --> 00:03:28,378
+All other reports can be printed easily
 
